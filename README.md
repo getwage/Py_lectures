@@ -2,7 +2,7 @@
 关于Python工具的讲义，为学生提供训练使用的Jupyter Notebook 文件。具体包括如下内容：
 
 ## 工具简介（IDE）
-- Anaconda
+- Anaconda ([anaconda](Tools_and_IDE/Anaconda_intro.ipynb))
 - Ipython
 - Jupyter Notebook
 - Pycharm
